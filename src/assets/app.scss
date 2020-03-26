@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+.center-column {
+    text-align: center;
+}
+
+.center-column a {
+    color: white;
+}
+
+.center-column :hover {
+    color: red;
+}
+
+.error {
+    border-color: #e94b35 !important;
+}
